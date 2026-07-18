@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0113_000-T.yaml, hash: 'sha256:171c510778fad515e3d4456172df993fb4b913d18cd60ea0a4e93700926f0f23'}
   - {seq: 1, filename: KR6a0113_001-T.yaml, hash: 'sha256:8b826af66320b5f359092b89de96073a6f228cb7754bc6189d710afaaa908f44'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0113_000-T.markers.yaml, hash: 'sha256:40dc0a5a0b77015a60e3d8b679a85c810b506325ccbd3e41b38fdcb8d5fbc99e'}
+  - {seq: 0, role: markers, filename: assets/KR6a0113_000-T.markers.yaml, hash: 'sha256:ec0ec2bc1fad6c8085bf0c3fac2d7d64aab5c20712ea2ebdd15124a4c0964215'}
   - {seq: 1, role: markers, filename: assets/KR6a0113_001-T.markers.yaml, hash: 'sha256:1b7fc4dee6a34e231c8ee872ed60c98dbc966c86a5e177f3420bc9da828f1b85'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說難提釋經
   type: juan
   level: 1
-hash: sha256:261660029ed9ecfa4cf15d3613e3ae6b7c1818d71e29708b7b30219771013f14
+hash: sha256:62b35d3dcab27e29cfc44ba2a0705c543fc34469d0e28c3f709e7e44522c2432
